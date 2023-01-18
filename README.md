@@ -5,5 +5,5 @@ Due to GitHub policies, Copilot, etc. most of the repositories here are effectiv
 frozen and will only receive updates to facilitate the creation of pull requests
 where repositories fork other GitHub-hosted repositories.
 
-Current versions of these repositories (and more!) can be found at
+Current versions of the active repositories (and more!) can be found at
 <http://www.eris-associates.co.uk/git>
